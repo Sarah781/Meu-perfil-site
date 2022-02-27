@@ -1,0 +1,127 @@
+/* css da página inicial */
+body{
+    font-family: 'Dancing Script', cursive;
+    background:linear-gradient(#FEFEFE, #9400D3)
+}
+
+.title{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h1 img{
+    width: 200px;
+}
+
+h2{
+    color: black;
+    font-size: 30px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+h3{
+    color: black;
+    font-size: 30px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+.Sobre-Mim{
+    width: 640px;
+    margin: 0 auto;
+}
+
+.lista{
+    font-size: 25px;
+    text-align:left;
+    display: inline-block;
+    
+}
+
+.Sobre-Mim {
+	width: 640px;
+	margin: 0 auto;
+}
+
+.lista {
+	width: 50%;
+	display: inline-block;
+	vertical-align: top;
+    padding-top: 20px;
+    max-lines: 1.0;
+}
+
+.itens {
+	line-height: 1.5;
+    max-lines: 1.0;
+}
+
+
+.itens:before {
+	content: "🟊";
+}
+
+h5{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+.Cursos{
+    width: 640px;
+    margin: 0 auto;
+}
+
+.lista{
+    font-size: 25px;
+    text-align:left;
+    display: inline-block;
+    
+}
+
+.Cursos {
+	width: 640px;
+	margin: 0 auto;
+}
+
+.lista {
+	width: 50%;
+	display: inline-block;
+	vertical-align: top;
+    padding-top: 20px;
+    max-lines: 1.0;
+}
+
+.itens {
+	line-height: 1.5;
+    max-lines: 1.0;
+}
+
+
+.itens:before {
+	content: "🟊";
+}
+
+footer {
+	text-align: center;
+	padding: 40px 0;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
+
+
+
